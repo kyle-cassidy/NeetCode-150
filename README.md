@@ -217,3 +217,6 @@
 6. [Segment Tree](https://github.com/dipjul/NeetCode-150/blob/main/Misc-DSA/06.SegmentTree.md)  
 7. [Fenwick Tree](https://github.com/dipjul/NeetCode-150/blob/main/Misc-DSA/07.FenwickTree.md)  
 8. [Fenwick Tree 2D](https://github.com/dipjul/NeetCode-150/blob/main/Misc-DSA/08.FenwickTree2D.md)
+
+## aknowledgements
+i am building on top of [dipjul's repo](https://github.com/dipjul/NeetCode-150/tree/main). thank you very much, you have my star. 
