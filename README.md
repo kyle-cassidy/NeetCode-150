@@ -52,7 +52,7 @@
 6. Time Based Key Value Store	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/05.%20Binary%20Search/06.TimeBasedKeyValueStore.md)
 7. Median of Two Sorted Arrays	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/05.%20Binary%20Search/07.MedianOfTwoSortedArrays.md)
 
-## 6. Lined List [Resources](https://github.com/dipjul/NeetCode-150/blob/main/06.%20LinkedList/)
+## 6. Linked List [Resources](https://github.com/dipjul/NeetCode-150/blob/main/06.%20LinkedList/)
 
 1. Reverse Linked List	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/06.%20LinkedList/01.ReverseLinkedList.md)
 2. Merge Two Sorted Lists	 [Solution](https://github.com/dipjul/NeetCode-150/blob/main/06.%20LinkedList/02.MergeTwoLinkedList.md)
